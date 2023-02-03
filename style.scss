@@ -8,6 +8,7 @@ body {
     font-family: "Arial", sans-serif;
   }
   
+  
   .inner {
     background: rgb(86, 94, 207);
     padding: 1em;
@@ -28,7 +29,7 @@ body {
       font-weight: bold;
       transition: color 0.5s;
       position: relative;
-      margin-right: 4%;
+      margin-right: 1%;
     }
   
     &:hover span {
