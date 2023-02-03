@@ -1,5 +1,5 @@
 body {
-  background: #dcf5ff;
+  background: #161d20;
   margin: 0;
   height: 100vh;
   display: grid;
@@ -9,7 +9,7 @@ body {
 }
 
 .inner {
-  background: rgb(7, 218, 165);
+  background: rgb(86, 94, 207);
   padding: 1em;
   border-radius: 10px;
   width: 250px;
@@ -21,7 +21,7 @@ body {
 .inner:hover {
   -webkit-clip-path: circle(75%);
           clip-path: circle(75%);
-  background: #00b6ff;
+  background: #d330c8;
 }
 .inner span {
   float: right;
