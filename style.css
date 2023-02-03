@@ -12,7 +12,7 @@ body {
   background: rgb(86, 94, 207);
   padding: 1em;
   border-radius: 10px;
-  width: 250px;
+  width: 280px;
   -webkit-clip-path: circle(10% at 90% 13%);
           clip-path: circle(10% at 90% 13%);
   transition: all 0.5s ease-in-out;
